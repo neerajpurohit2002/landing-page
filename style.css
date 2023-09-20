@@ -51,12 +51,12 @@
     display: inline-block;
  }
  .navbar-menu a:hover{
-    color: #d49c00;
+    color:skyblue;
     font-weight:700;
  }
  #Home{
     height: 100vh;
-    background-image: url(img.jpg);
+    background-image: url(travel.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
